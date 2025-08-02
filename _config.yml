@@ -1,0 +1,7 @@
+title: Dr S. Karthik Mukkavilli
+description: AI • Climate • Energy • Complex Systems
+theme: jekyll-theme-slate        # built-in; change any time
+permalink: pretty                # clean URLs (/kEnergy/)
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
