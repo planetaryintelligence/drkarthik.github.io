@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Dr S. Karthik Mukkavilli
+# Dr S. Karthik Mukkavilli = k
 
 Group Head of AI, Mercuria  &nbsp;|&nbsp; Adjunct Professor, KAIST
 
@@ -26,7 +26,7 @@ Group Head of AI, Mercuria  &nbsp;|&nbsp; Adjunct Professor, KAIST
 
 ## Quick links
 
-* [karthikLab](/karthikLab) - where the constant k refers to me
+* [karthikLab](/karthikLab) - landing page where k is the constant
 * [kEnergy](/kEnergy) 
 * [kClimate](/kClimate) 
 * [kEarth](/kEarth) 
