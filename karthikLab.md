@@ -8,4 +8,4 @@ permalink: /karthikLab/
 
 # karthikLab
 
-Landing page from where the constant is k.
+AI for complex systems research landing page.
