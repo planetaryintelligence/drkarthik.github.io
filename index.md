@@ -26,7 +26,7 @@ Group Head of AI, Mercuria  &nbsp;|&nbsp; Adjunct Professor, KAIST
 
 ## Quick links
 
-* [karthikLab](/karthikLab) - landing page where k is the constant
+* [karthikLab](/karthikLab) - landing page from where k is the constant
 * [kEnergy](/kEnergy) 
 * [kClimate](/kClimate) 
 * [kEarth](/kEarth) 
