@@ -1,0 +1,34 @@
+---
+layout: default
+title: Home
+---
+
+# Dr S. Karthik Mukkavilli
+
+Adjunct Professor, KAIST GGGS &nbsp;|&nbsp; Group Head of AI, Mercuria
+
+<div style="display:flex; gap:1rem; margin-top:1.2rem">
+  <a href="https://scholar.google.com/citations?user=DKFiD7cAAAAJ&hl" title="Google Scholar">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg"
+         alt="Google Scholar" width="40">
+  </a>
+  <a href="https://www.linkedin.com/in/karthikmukkavilli" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
+         alt="LinkedIn" width="40">
+  </a>
+  <a href="https://gggs.kaist.ac.kr" title="KAIST GGGS">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaist.svg"
+         alt="KAIST" width="40">
+  </a>
+</div>
+
+---
+
+## Quick links
+
+* [karthikLab](/karthikLab)  
+* [kEnergy](/kEnergy) 
+* [kClimate](/kClimate) 
+* [kEarth](/kEarth) 
+* [kNews](/kNews)
+* [kPop](/kPop)
