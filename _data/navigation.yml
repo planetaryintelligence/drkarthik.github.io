@@ -3,18 +3,20 @@
 
 - title: karthikLab
   url: /karthikLab
+  has_children: true       # makes a drop-down
 
+# Children (will appear indented under karthikLab)
 - title: kEnergy
-  url: /kEnergy
+  url: /karthikLab/kEnergy
 
 - title: kClimate
-  url: /kClimate
+  url: /karthikLab/kClimate
 
 - title: kEarth
-  url: /kEarth
+  url: /karthikLab/kEarth
 
 - title: kNews
-  url: /kNews
+  url: /karthikLab/kNews
 
 - title: kPop
-  url: /kPop
+  url: /karthikLab/kPop
