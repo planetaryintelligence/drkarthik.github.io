@@ -1,6 +1,5 @@
-# drkarthik.ai
 
-**Dr S. Karthik Mukkavilli — Personal & Research Website**
+**Personal & Research Website**
 
 **https://drkarthik.ai**.  
 The site is coming soon!
