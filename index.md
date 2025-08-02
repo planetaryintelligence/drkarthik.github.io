@@ -5,7 +5,7 @@ title: Home
 
 # Dr S. Karthik Mukkavilli
 
-Adjunct Professor, KAIST GGGS &nbsp;|&nbsp; Group Head of AI, Mercuria
+Group Head of AI, Mercuria  &nbsp;|&nbsp; Adjunct Professor, KAIST
 
 <div style="display:flex; gap:1rem; margin-top:1.2rem">
   <a href="https://scholar.google.com/citations?user=DKFiD7cAAAAJ&hl" title="Google Scholar">
@@ -26,7 +26,7 @@ Adjunct Professor, KAIST GGGS &nbsp;|&nbsp; Group Head of AI, Mercuria
 
 ## Quick links
 
-* [karthikLab](/karthikLab)  
+* [karthikLab](/karthikLab) - where the constant k refers to me
 * [kEnergy](/kEnergy) 
 * [kClimate](/kClimate) 
 * [kEarth](/kEarth) 
