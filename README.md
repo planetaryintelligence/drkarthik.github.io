@@ -1,22 +1,7 @@
+# drkarthik.ai
 
-**Personal & Research Website**
+Source for **https://drkarthik.ai** (GitHub Pages).
 
-**https://drkarthik.ai**.  
-The site is coming soon!
-
-## Sections
-
-| URL | Focus |
-|-----|-------|
-| `/karthikLab` | General lab info & openings at KAIST |
-| `/kEnergy`    | AI for energy-market analytics |
-| `/kClimate`   | Climate models & sustainability projects |
-| `/kEarth`     | Earth-observation & geospatial AI |
-| `/kNews`      | News, talks, press links |
-| `/kPop`       | Short popular-science posts |
-
-## Local preview
-
-```bash
-bundle install      # first time only
-bundle exec jekyll serve
+Sections   • karthikLab (parent) → kEnergy · kClimate · kEarth · kNews · kPop  
+Theme      • [just-the-docs](https://just-the-docs.github.io/just-the-docs/)  
+License    • Code MIT  • Content CC BY 4.0
