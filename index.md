@@ -4,7 +4,7 @@ title: Home
 nav_order: 0
 ---
 
-# Dr S. Karthik Mukkavilli
+# where the constant is k
 
 Group Head of AI, [Mercuria](https://www.mercuria.com) &nbsp;|&nbsp; Adjunct Professor, [KAIST](https://gggs.kaist.ac.kr)
 
