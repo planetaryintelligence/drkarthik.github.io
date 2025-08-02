@@ -17,7 +17,7 @@ Adjunct Professor, KAIST GGGS &nbsp;|&nbsp; Group Head of AI, Mercuria
          alt="LinkedIn" width="40">
   </a>
   <a href="https://gggs.kaist.ac.kr" title="KAIST GGGS">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaist.svg"
+    <img src="https://commons.m.wikimedia.org/wiki/File:KAIST_logo.svg"
          alt="KAIST" width="40">
   </a>
 </div>
