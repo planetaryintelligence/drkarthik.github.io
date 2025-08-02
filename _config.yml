@@ -1,7 +1,7 @@
-title: Dr S. Karthik Mukkavilli
-description: AI • Climate • Energy • Complex Systems
-theme: jekyll-theme-slate        # built-in; change any time
-permalink: pretty                # clean URLs (/kEnergy/)
+title: Dr Karthik Mukkavilli
+description: AI • Climate • Energy • Earth Systems
+theme: just-the-docs       # <— supports parent/child nav
+permalink: pretty
 markdown: kramdown
 plugins:
-  - jekyll-seo-tag
+  - jekyll-seo-tag         # GitHub Pages whitelists this
