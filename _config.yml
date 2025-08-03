@@ -1,7 +1,12 @@
+# _config.yml  (Aug 2025)
 title: Dr S. Karthik Mukkavilli
-description: AI for Complex Systems - Climate • Energy • Earth
-theme: just-the-docs       # <— supports parent/child nav
+description: AI for Complex Systems – Climate • Energy • Earth
+
+remote_theme: just-the-docs/just-the-docs  
+# theme: just-the-docs                      # (remove this line)
+
 permalink: pretty
 markdown: kramdown
+
 plugins:
-  - jekyll-seo-tag         # GitHub Pages whitelists this
+  - jekyll-seo-tag          
