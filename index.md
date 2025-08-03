@@ -4,7 +4,7 @@ title: Home
 nav_order: 0
 ---
 
-# where the constant is k
+# where the constant k meets complexity
 
 Group Head of AI, [Mercuria](https://www.mercuria.com) &nbsp;|&nbsp; Adjunct Professor, [KAIST](https://gggs.kaist.ac.kr)
 
