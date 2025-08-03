@@ -10,4 +10,4 @@ permalink: /karthikLab/kNews/
 
 **Latest updates from karthikLab.**
 
-*Aug 1st 2025*: ***k*** is honoured to be appointed an Adjunct Professor by the president of Korea Advanced Institute for Science and Technology (KAIST) nominated by Graduate School of Green Growth and Sustainability (GGGS) department head Prof. Jiyong Eom and grateful to the continued support of co-founder, CEO of Mercuria in recognising the value of the changing AI research and technology innovation landscape from Asia. 
+*Aug 1st 2025*: dr. ***k*** -> prof. ***k***. Honoured to be appointed an Adjunct Professor by the president of [Korea Advanced Institute of Science and Technology (**KAIST**)](https://www.kaist.ac.kr/en/) nominated by [Graduate School of Green Growth and Sustainability (GGGS)](https://gggs.kaist.ac.kr/english) department head Prof. [Jiyong Eom](https://pure.kaist.ac.kr/en/persons/jiyong-eom) and grateful to the continued support of Mercuria.
