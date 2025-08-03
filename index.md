@@ -4,7 +4,7 @@ title: Home
 nav_order: 0
 ---
 
-# ☀️ *k*arthik mukkavilli = prof. dr. *k*
+# S☀️*k*arthik mukkavilli = prof. dr. *k*
 
 Group Head of AI, [Mercuria](https://www.mercuria.com) &nbsp;|&nbsp; Adjunct Professor, [KAIST](https://gggs.kaist.ac.kr)
 
