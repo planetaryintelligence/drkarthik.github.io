@@ -7,7 +7,7 @@ permalink: /karthikLab/
 ---
 
 # karthikLab
-AI for complex systems research landing page.
+AI for complex systems research landing page (coming soon...)
 
 **Recent papers**
 
