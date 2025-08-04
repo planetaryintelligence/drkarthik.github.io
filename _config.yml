@@ -3,7 +3,6 @@ title: where constant k meets complexity
 description: AI for Complex Systems – Climate • Energy • Earth
 
 remote_theme: just-the-docs/just-the-docs  
-# theme: just-the-docs                      # (remove this line)
 
 permalink: pretty
 markdown: kramdown
