@@ -23,7 +23,7 @@ Group Head of AI, [Mercuria](https://www.mercuria.com) &nbsp;|&nbsp; Adjunct Pro
 
 ## Bio
 
-*S. Karthik Mukkavilli* has 15 years of experience at the intersection of science, engineering, and AI, working across technology, government, non-profits, and startups on four continents. He is currently the Group Head of AI at Mercuria with responsibilities to guide AI leadership globally at a leading Swiss multinational energy commodity trading company, and operational responsibilities in technology development as senior AI architect and principal scientist. 
+*S. Karthik Mukkavilli* has 15 years of experience at the intersection of science, engineering, and AI, working across technology, government, non-profits, startups and recently financial markets across four continents. He is currently the Group Head of AI at Mercuria with responsibilities to guide AI leadership globally at a leading Swiss multinational energy commodity trading company, and operational responsibilities in technology development as senior AI architect and principal scientist. 
 
 He was recently appointed as an Adjunct Professor at Korea Advanced Institute of Science and Technology (KAIST). His group at KAIST will focus on AI for complex systems and scientific machine learning for climate, energy and Earth sciences in the Graduate School of Green Growth and Sustainability (GGGS) at KAIST. GGGS performs multi-disciplinary carbon neutrality research combining science and technology research with policy and finance. GGGS is part of the Integrated Assessment Modeling Consortium.
 
