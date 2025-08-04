@@ -9,9 +9,9 @@ permalink: /karthikLab/
 # karthikLab
 AI for complex systems research landing page (coming soon...)
 
-## Graduate students
+## Graduates, PhDs, Postdocs
 
-Please apply directly to KAIST, reach out to a KAIST [professor](https://gggs.kaist.ac.kr/english/all-professor/index) focusing on a domain and indicate interest in AI co-supervision with me.   
+Please apply directly to KAIST, then indicate interest in AI co-supervision with me along with a KAIST [professor](https://gggs.kaist.ac.kr/english/all-professor/index) focusing on a domain.
 
 **Recent papers**
 
