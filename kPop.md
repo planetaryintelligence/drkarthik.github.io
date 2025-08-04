@@ -50,7 +50,7 @@ co-developed and co-authored work (Plant-rich diet solution, Drawdown) mentioned
 
 co-developed and co-authored work (Plant-rich diet solution, Drawdown) featured in [How Much Do You Know About Solving Global Warming?](https://www.nytimes.com/interactive/2017/06/09/climate/drawdown-climate-solutions-quiz.html). **The New York Times**. (12 Jun 2017)
 
-op-ed in (NASA scientist is right: Australia needs CSIRO’s aerosol monitoring more than ever)[https://theconversation.com/nasa-scientist-is-right-australia-needs-csiros-aerosol-monitoring-more-than-ever-59524]. (19 May 2016). **The Conversation**.
+op-ed in [NASA scientist is right: Australia needs CSIRO’s aerosol monitoring more than ever](https://theconversation.com/nasa-scientist-is-right-australia-needs-csiros-aerosol-monitoring-more-than-ever-59524). (19 May 2016). **The Conversation**.
 
 
 
