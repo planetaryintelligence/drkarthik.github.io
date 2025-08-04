@@ -10,4 +10,4 @@ permalink: /karthikLab/kPop/
 
 **AI for popular culture.**
 
-*(Content coming soon.)*
+*(Media and comms. content coming soon.)*
