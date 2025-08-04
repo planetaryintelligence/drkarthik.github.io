@@ -46,6 +46,12 @@ co-authored publication featured in [Here are 10 ways AI could help fight climat
 
 co-authored publication featured in [AI can show us the ravages of climate change](https://www.technologyreview.com/2019/05/16/135323/ai-can-show-us-the-ravages-of-climate-change/). **MIT Technology Review**. 16 May 2019.
 
+co-developed and co-authored work (Plant-rich diet solution, Drawdown) mentioned in [Gisele Bündchen teams up with Paul Hawken to advocate for the environment](https://www.cbsnews.com/news/gisele-bundchen-evironmentalist-paul-hawken-climate-change/). **CBS News**. (18 May 2017).
+
+co-developed and co-authored work (Plant-rich diet solution, Drawdown) featured in [How Much Do You Know About Solving Global Warming?](https://www.nytimes.com/interactive/2017/06/09/climate/drawdown-climate-solutions-quiz.html). **The New York Times**. (12 Jun 2017)
+
+
+
 
 
 
