@@ -6,7 +6,7 @@ nav_order: 5
 permalink: /karthikLab/kPop/
 ---
 
-# kPop 🇰🇷
+# kPop 🎤✨
 
 **AI for popular culture.**
 
