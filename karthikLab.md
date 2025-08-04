@@ -9,6 +9,10 @@ permalink: /karthikLab/
 # karthikLab
 AI for complex systems research landing page (coming soon...)
 
+## Graduate students
+
+Please apply directly to KAIST, reach out to a KAIST [professor](https://gggs.kaist.ac.kr/english/all-professor/index) focusing on a domain and indicate interest in AI co-supervision with me.   
+
 **Recent papers**
 
 Model-based reinforcement learning for ultrasound-driven autonomous microrobots. **Nature Machine Intelligence**, 1-15. Medany, M., Piglia, L., Achenbach, L., **Mukkavilli, S. K.**, & Ahmed, D. (2025). [[Video](https://www.youtube.com/watch?v=hVw_0abqCKc)]
