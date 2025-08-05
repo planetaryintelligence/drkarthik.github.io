@@ -7,6 +7,43 @@ permalink: /karthikLab/
 ---
 
 # karthikLab
+
+Adjunct Professor, [KAIST](https://gggs.kaist.ac.kr) &nbsp;|&nbsp;<span id="k-email"></span>
+
+<noscript>
+  <!-- Fallback if JS is disabled or GitHub preview strips <script> -->
+  <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#100;&#114;&#107;&#97;&#114;&#116;&#104;&#105;&#107;&#64;&#107;&#97;&#105;&#115;&#116;&#46;&#97;&#99;&#46;&#107;&#114;">
+    &#100;&#114;&#107;&#97;&#114;&#116;&#104;&#105;&#107;&#64;&#107;&#97;&#105;&#115;&#116;&#46;&#97;&#99;&#46;&#107;&#114;
+  </a>
+</noscript>
+
+{% raw %}
+<script type="text/javascript">
+(function () {
+  /* 1 – address parts (Unicode‑escaped) */
+  var u = "\u0064\u0072\u006B\u0061\u0072\u0074\u0068\u0069\u006B";            /* drkarthik */
+  var d = "\u006B\u0061\u0069\u0073\u0074\u002E\u0061\u0063\u002E\u006B\u0072";/* kaist.ac.kr */
+
+  /* 2 – build the mailto: link */
+  var a = document.createElement("a");
+  a.href  = "mailto:" + u + "@" + d;
+  a.title = u + "@" + d;
+
+  /* 3 – mail icon (swap `src` if you prefer another icon) */
+  var img = document.createElement("img");
+  img.src    = "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg";
+  img.alt    = "Email";
+  img.width  = 24;
+  img.height = 24;
+  img.style.verticalAlign = "middle";
+
+  /* 4 – inject into the page */
+  a.appendChild(img);
+  document.getElementById("k-email").appendChild(a);
+})();
+</script>
+{% endraw %}
+
 AI for complex systems research landing page (coming soon...)
 
 ## Graduates, PhDs, Postdocs
