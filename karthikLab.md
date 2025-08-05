@@ -31,7 +31,7 @@ Adjunct Professor, [KAIST](https://gggs.kaist.ac.kr) &nbsp;|&nbsp;<span id="k-em
 
   /* 3 – mail icon (swap `src` if you prefer another icon) */
   var img = document.createElement("img");
-  img.src    = "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg";
+  img.src    = "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg";
   img.alt    = "Email";
   img.width  = 24;
   img.height = 24;
