@@ -1,0 +1,31 @@
+{
+  "portrait": {
+    "image_url": "https://ai-environment-summit.com/wp-content/uploads/2025/09/Karthik-Mukkavilli-e1758171042940.jpg",
+    "source": "https://ai-environment-summit.com/archive-2025/",
+    "use": "Speaker portrait for linked appearance previews; not a CERAWeek event photograph."
+  },
+  "talks": [
+    {
+      "title": "How Can AI Accelerate the Global Energy Transition?",
+      "label": "YouTube · Energy transition",
+      "url": "https://www.youtube.com/watch?v=UWfIF1vEpOU",
+      "thumbnail": "https://i.ytimg.com/vi/UWfIF1vEpOU/hqdefault.jpg",
+      "action": "Watch the talk"
+    },
+    {
+      "title": "AI for Complex Systems",
+      "label": "AI + Environment Summit 2025",
+      "url": "https://www.youtube.com/watch?v=kPT4W4Z5KlY",
+      "thumbnail": "https://i.ytimg.com/vi/kPT4W4Z5KlY/hqdefault.jpg",
+      "action": "Watch the talk"
+    },
+    {
+      "title": "Responsible AI: Governance model to ensure ethics and trust",
+      "label": "CERAWeek · Panel discussion",
+      "url": "https://www.ceraweek.com/en/program/responsible-ai-governance-model-to-ensure-ethics-and-trust-1068-50173",
+      "thumbnail": "https://ai-environment-summit.com/wp-content/uploads/2025/09/Karthik-Mukkavilli-e1758171042940.jpg",
+      "action": "View the session",
+      "profile": "https://www.ceraweek.com/en/speakers/karthik-mukkavilli-1068-28380"
+    }
+  ]
+}

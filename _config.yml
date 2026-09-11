@@ -1,11 +1,15 @@
-# _config.yml  (Aug 2025)
 title: where constant k meets complexity
 description: AI for Complex Systems – Climate • Energy • Earth
-
-remote_theme: just-the-docs/just-the-docs  
-
+remote_theme: just-the-docs/just-the-docs
 permalink: pretty
 markdown: kramdown
-
 plugins:
-  - jekyll-seo-tag          
+- jekyll-seo-tag
+- jekyll-remote-theme
+exclude:
+- preview
+- UPDATE-NOTES.md
+- FIGURE-CREDITS.md
+- README.md
+- Gemfile
+- Gemfile.lock

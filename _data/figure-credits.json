@@ -1,0 +1,226 @@
+[
+  {
+    "image": "flow.png",
+    "paper": "Bounded Multiscale Forecasting with Hierarchical and Sequential Mesh Refinement of Graph Neural Networks",
+    "authors": "T Bailie, SK Mukkavilli, V Vetrova, YS Koh",
+    "source": "https://doi.org/10.1145/3770855.3818890",
+    "original_pdf": "3770855.3818890.pdf",
+    "pdf_page": 2,
+    "figure": 1,
+    "crop_points": [
+      51,
+      78,
+      562,
+      244
+    ],
+    "note": "Cropped from the supplied paper. Figure credit remains with the original authors/publisher; repository MIT license does not apply."
+  },
+  {
+    "image": "safe-ai.png",
+    "paper": "Position: Train Robustly and Certify at Runtime Under Partial Observability",
+    "authors": "C Zhou, SK Mukkavilli, Y Gao",
+    "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:OP4eGU-M3BUC",
+    "original_pdf": "22_Position_Train_Robustly_and.pdf",
+    "pdf_page": 1,
+    "figure": 1,
+    "crop_points": [
+      334,
+      214,
+      541,
+      406
+    ],
+    "note": "Cropped from the supplied paper. Figure credit remains with the original authors/publisher; repository MIT license does not apply."
+  },
+  {
+    "image": "climate-intelligence.png",
+    "paper": "Artificial intelligence to support cross-disciplinary climate change research",
+    "authors": "Y Ou, C Rodriguez-Pardo, AA Khourdajie, J Rogelj, P Zhou, SK Mukkavilli, et al.",
+    "source": "https://doi.org/10.1038/s41558-026-02624-x",
+    "original_pdf": "s41558-026-02624-x.pdf",
+    "pdf_page": 2,
+    "figure": 1,
+    "crop_points": [
+      38,
+      88,
+      557,
+      307
+    ],
+    "note": "Cropped from the supplied paper. Figure credit remains with the original authors/publisher; repository MIT license does not apply."
+  },
+  {
+    "image": "microrobots.png",
+    "paper": "Model-based reinforcement learning for ultrasound-driven autonomous microrobots",
+    "authors": "M Medany, L Piglia, L Achenbach, SK Mukkavilli, D Ahmed",
+    "source": "https://doi.org/10.1038/s42256-025-01054-2",
+    "original_pdf": "s42256-025-01054-2 (1).pdf",
+    "pdf_page": 3,
+    "figure": 1,
+    "crop_points": [
+      38,
+      39,
+      558,
+      585
+    ],
+    "note": "Cropped from the supplied paper. Figure credit remains with the original authors/publisher; repository MIT license does not apply."
+  },
+  {
+    "image": "indus.png",
+    "paper": "Indus: Effective and efficient language models for scientific applications",
+    "authors": "B Bhattacharjee, A Trivedi, M Muraoka, M Ramasubramanian, et al.",
+    "source": "https://aclanthology.org/2024.emnlp-industry.9/",
+    "original_pdf": "2024.emnlp-industry.9.pdf",
+    "pdf_page": 2,
+    "figure": 1,
+    "crop_points": [
+      70,
+      64,
+      526,
+      262
+    ],
+    "note": "Cropped from the supplied paper. Figure credit remains with the original authors/publisher; repository MIT license does not apply."
+  },
+  {
+    "image": "hydro-hazards.png",
+    "paper": "Wealth over Woe: Global biases in hydro‐hazard research",
+    "authors": "L Stein, SK Mukkavilli, BM Pfitzmann, PWJ Staar, U Ozturk, C Berrospi, et al.",
+    "source": "https://doi.org/10.1029/2024EF004590",
+    "original_pdf": "Earth s Future - 2024 - Stein - Wealth Over Woe  Global Biases in Hydro‐Hazard Research.pdf",
+    "pdf_page": 3,
+    "figure": 1,
+    "crop_points": [
+      30,
+      75,
+      545,
+      383
+    ],
+    "note": "Cropped from the supplied paper. Figure credit remains with the original authors/publisher; repository MIT license does not apply."
+  },
+  {
+    "image": "targeted-medicine.png",
+    "paper": "AI-driven autonomous microrobots for targeted medicine",
+    "authors": "M Medany, SK Mukkavilli, D Ahmed",
+    "source": "https://doi.org/10.1038/s44222-024-00232-y",
+    "original_pdf": "s44222-024-00232-y.pdf",
+    "pdf_page": 2,
+    "figure": 1,
+    "crop_points": [
+      38,
+      52,
+      558,
+      272
+    ],
+    "note": "Cropped from the supplied paper. Figure credit remains with the original authors/publisher; repository MIT license does not apply."
+  },
+  {
+    "image": "prithvi.png",
+    "paper": "Foundation models for generalist geospatial artificial intelligence",
+    "authors": "J Jakubik, S Roy, CE Phillips, P Fraccaro, D Godwin, B Zadrozny, et al.",
+    "source": "https://arxiv.org/abs/2310.18660",
+    "original_pdf": "2310.18660v2.pdf",
+    "pdf_page": 3,
+    "figure": 1,
+    "crop_points": [
+      90,
+      77,
+      480,
+      309
+    ],
+    "note": "Cropped from the supplied paper. Figure credit remains with the original authors/publisher; repository MIT license does not apply."
+  },
+  {
+    "image": "weather-climate.png",
+    "paper": "AI Foundation Models for Weather and Climate: Applications, Design, and Implementation",
+    "authors": "S Karthik Mukkavilli, D Salles Civitarese, J Schmude, J Jakubik, A Jones, et al.",
+    "source": "https://arxiv.org/abs/2309.10808",
+    "original_pdf": "2309.10808v2.pdf",
+    "pdf_page": 14,
+    "figure": 1,
+    "crop_points": [
+      130,
+      115,
+      483,
+      337
+    ],
+    "note": "Cropped from the supplied paper. Figure credit remains with the original authors/publisher; repository MIT license does not apply."
+  },
+  {
+    "image": "ab2cd.png",
+    "paper": "AB2CD: AI for building climate damage classification and detection",
+    "authors": "M Nitsche, SK Mukkavilli, N Kühl, T Brunschwiler",
+    "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:Ri6SYOTghG4C",
+    "original_pdf": "03775-FSS.NitscheM.pdf",
+    "pdf_page": 5,
+    "figure": 1,
+    "crop_points": [
+      53,
+      48,
+      294,
+      375
+    ],
+    "note": "Cropped from the supplied paper. Figure credit remains with the original authors/publisher; repository MIT license does not apply."
+  },
+  {
+    "image": "climate-ml.png",
+    "paper": "Tackling climate change with machine learning",
+    "authors": "D Rolnick, PL Donti, LH Kaack, K Kochanski, A Lacoste, K Sankaran, et al.",
+    "source": "https://doi.org/10.1145/3485128",
+    "original_pdf": "3485128.pdf",
+    "pdf_page": 7,
+    "figure": 1,
+    "crop_points": [
+      44,
+      72,
+      443,
+      445
+    ],
+    "note": "Cropped from the supplied paper. Figure credit remains with the original authors/publisher; repository MIT license does not apply."
+  },
+  {
+    "image": "climate-visualisation.png",
+    "paper": "Visualizing the consequences of climate change using cycle-consistent adversarial networks",
+    "authors": "V Schmidt, A Luccioni, SK Mukkavilli, N Balasooriya, K Sankaran, et al.",
+    "source": "https://arxiv.org/abs/1905.03709",
+    "original_pdf": "1905.03709v1.pdf",
+    "pdf_page": 4,
+    "figure": 1,
+    "crop_points": [
+      102,
+      88,
+      510,
+      197
+    ],
+    "note": "Cropped from the supplied paper. Figure credit remains with the original authors/publisher; repository MIT license does not apply."
+  },
+  {
+    "image": "higflow-architecture.png",
+    "paper": "Addressing Downward Memory Loss in Hierarchical GNN Forecasters Through Memory-Buffered Decoding",
+    "authors": "T Bailie, SK Mukkavilli, V Vetrova, YS Koh",
+    "source": "https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/4495.pdf",
+    "original_pdf": "4495.pdf",
+    "pdf_page": 3,
+    "figure": 3,
+    "crop_points": [
+      313,
+      51,
+      561,
+      195
+    ],
+    "note": "Original figure cropped from supplied PDF; no redrawing or alteration. Figure credit remains with the original authors/publisher."
+  },
+  {
+    "image": "hoga-architecture.png",
+    "paper": "HoGA: Higher-Order Graph Attention via Diversity-Aware k-Hop Sampling",
+    "authors": "T Bailie, YS Koh, SK Mukkavilli",
+    "source": "https://doi.org/10.1145/3773966.3777960",
+    "original_pdf": "3773966.3777960 (2).pdf",
+    "pdf_page": 3,
+    "figure": 2,
+    "crop_points": [
+      52,
+      80,
+      562,
+      231
+    ],
+    "note": "Original figure cropped from supplied PDF; no redrawing or alteration. Figure credit remains with the original authors/publisher."
+  }
+]
