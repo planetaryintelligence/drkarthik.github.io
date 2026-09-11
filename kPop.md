@@ -2,7 +2,7 @@
 layout: default
 title: kPop
 parent: karthikLab
-nav_order: 5
+nav_order: 6
 permalink: /karthikLab/kPop/
 ---
 
@@ -10,7 +10,22 @@ permalink: /karthikLab/kPop/
 
 Research for public and popular culture consumption.
 
-**Media & Communications**
+## Talks and conversations
+
+- [AI + Environment Summit 2025 — AI for Complex Systems](https://www.youtube.com/watch?v=kPT4W4Z5KlY)
+- [How Can AI Accelerate the Global Energy Transition? — S. Karthik Mukkavilli](https://www.youtube.com/watch?v=UWfIF1vEpOU)
+- [Teaching microrobots to dream](https://www.youtube.com/watch?v=hVw_0abqCKc)
+- [CERAWeek — Responsible AI: Governance model to ensure ethics and trust](https://www.ceraweek.com/en/program/responsible-ai-governance-model-to-ensure-ethics-and-trust-1068-50173)
+- [CERAWeek speaker profile](https://www.ceraweek.com/en/speakers/karthik-mukkavilli-1068-28380)
+
+## Featured coverage
+
+- [KAIST climate research — DongA Science](https://www.dongascience.com/en/news/77866), 13 May 2026. Coverage of the proposed framework connecting climate science and socioeconomic research.
+- [NASA and IBM Research Apply AI to Weather and Climate](https://www.earthdata.nasa.gov/news/blog/nasa-ibm-research-apply-ai-weather-climate). NASA lists S. Karthik Mukkavilli among the IBM model-development team.
+- [Drawdown: The Most Comprehensive Plan Ever Proposed to Reverse Global Warming](https://books.google.ch/books?id=uvtlDgAAQBAJ). Edited by Paul Hawken; research contribution on climate solutions.
+
+## Media archive
+
 
 co-authored publication featured in [Teaching microrobots to dream](https://erc.europa.eu/news-events/news/teaching-microrobots-dream). **European Research Council**. (27 June 2025). [YouTube](https://youtu.be/hVw_0abqCKc)
 

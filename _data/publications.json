@@ -1,0 +1,550 @@
+[
+  {
+    "title": "A Blueprint for Integrated Climate Intelligence",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:F9fV5C73w3QC",
+    "authors": "C Rodriguez-Pardo, G Ascenso, CGA Pedraza, ML Bachelery, et al.",
+    "venue": "EarthArXiv",
+    "year": "2026",
+    "id": "a-blueprint-for-integrated-climate-intelligence",
+    "kind": "Preprint"
+  },
+  {
+    "title": "Addressing Downward Memory Loss in Hierarchical GNN Forecasters Through Memory-Buffered Decoding",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:nZcligLrVowC",
+    "authors": "T Bailie, SK Mukkavilli, V Vetrova, YS Koh",
+    "venue": "IJCAI",
+    "year": "2026",
+    "source": "https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/4495.pdf",
+    "id": "addressing-downward-memory-loss-in-hierarchical-gnn-forecasters-through-memory-buffered-decoding",
+    "kind": "Publication",
+    "image": "higflow-architecture.png",
+    "figure": 3,
+    "pdf_page": 3,
+    "caption": "HiGFlow architecture: graph coarsening learns global trends, while a memory-buffered downward pass preserves information across scales."
+  },
+  {
+    "title": "Artificial intelligence to support cross-disciplinary climate change research",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:a3BOlSfXSfwC",
+    "authors": "Y Ou, C Rodriguez-Pardo, AA Khourdajie, J Rogelj, P Zhou, SK Mukkavilli, et al.",
+    "venue": "Nature Climate Change 16, 505–507 (Comment)",
+    "year": "2026",
+    "image": "climate-intelligence.png",
+    "caption": "A proposed general-purpose AI framework connecting climate knowledge across disciplines.",
+    "source": "https://doi.org/10.1038/s41558-026-02624-x",
+    "figure": 1,
+    "pdf_page": 2,
+    "id": "artificial-intelligence-to-support-cross-disciplinary-climate-change-research",
+    "kind": "Publication"
+  },
+  {
+    "title": "Bounded Multiscale Forecasting with Hierarchical and Sequential Mesh Refinement of Graph Neural Networks",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:P7Ujq4OLJYoC",
+    "authors": "T Bailie, SK Mukkavilli, V Vetrova, YS Koh",
+    "venue": "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+    "year": "2026",
+    "image": "flow.png",
+    "caption": "The Flow framework: hierarchical and sequential mesh refinement for multiscale forecasting.",
+    "source": "https://doi.org/10.1145/3770855.3818890",
+    "figure": 1,
+    "pdf_page": 2,
+    "id": "bounded-multiscale-forecasting-with-hierarchical-and-sequential-mesh-refinement-of-graph-neural-networks",
+    "kind": "Publication"
+  },
+  {
+    "title": "HoGA: Higher-Order Graph Attention via Diversity-Aware k-Hop Sampling",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:r_AWSJRzSzQC",
+    "authors": "T Bailie, YS Koh, SK Mukkavilli",
+    "venue": "WSDM 2026",
+    "year": "2026",
+    "image": "hoga-architecture.png",
+    "caption": "HoGA architecture: k-hop graph sampling, adjacency matrices and higher-order attention combine information at multiple graph distances.",
+    "source": "https://doi.org/10.1145/3773966.3777960",
+    "figure": 2,
+    "pdf_page": 3,
+    "id": "hoga-higher-order-graph-attention-via-diversity-aware-k-hop-sampling",
+    "kind": "Publication"
+  },
+  {
+    "title": "Position: Train Robustly and Certify at Runtime Under Partial Observability",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:OP4eGU-M3BUC",
+    "authors": "C Zhou, SK Mukkavilli, Y Gao",
+    "venue": "1st IJCAI Workshop on Safe Physical AI (position paper)",
+    "year": "2026",
+    "image": "safe-ai.png",
+    "caption": "Robust policy training and runtime certification under partial observability.",
+    "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:OP4eGU-M3BUC",
+    "figure": 1,
+    "pdf_page": 1,
+    "id": "position-train-robustly-and-certify-at-runtime-under-partial-observability",
+    "kind": "Publication"
+  },
+  {
+    "title": "Automated disaster event extraction to understand lessons learned: A large-scale text analysis on the scientific literature of floods, droughts, and landslides.",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:fFSKOagxvKUC",
+    "authors": "L Stein, BM Pfitzmann, S Karthik Mukkavilli, U Ozturk, PWJ Staar, et al.",
+    "venue": "EGU General Assembly Conference Abstracts, EGU25-6762",
+    "year": "2025",
+    "id": "automated-disaster-event-extraction-to-understand-lessons-learned-a-large-scale-text-analysis-on-the-scientific-literature-of-floods-droughts-and-landslides",
+    "kind": "Conference abstract / presentation"
+  },
+  {
+    "title": "Model-based reinforcement learning for ultrasound-driven autonomous microrobots",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:3htObqc8RwsC",
+    "authors": "M Medany, L Piglia, L Achenbach, SK Mukkavilli, D Ahmed",
+    "venue": "Nature Machine Intelligence 7, 1076–1090",
+    "year": "2025",
+    "image": "microrobots.png",
+    "caption": "Experimental platform and learning workflow for autonomous ultrasound-driven microrobots.",
+    "source": "https://doi.org/10.1038/s42256-025-01054-2",
+    "figure": 1,
+    "pdf_page": 3,
+    "id": "model-based-reinforcement-learning-for-ultrasound-driven-autonomous-microrobots",
+    "kind": "Publication"
+  },
+  {
+    "title": "AI-driven autonomous microrobots for targeted medicine",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:IRz6iEL74y4C",
+    "authors": "M Medany, SK Mukkavilli, D Ahmed",
+    "venue": "Nature Reviews Bioengineering",
+    "year": "2024",
+    "image": "targeted-medicine.png",
+    "caption": "A conceptual framework for AI-driven microrobots in precision medicine.",
+    "source": "https://doi.org/10.1038/s44222-024-00232-y",
+    "figure": 1,
+    "pdf_page": 2,
+    "id": "ai-driven-autonomous-microrobots-for-targeted-medicine",
+    "kind": "Publication"
+  },
+  {
+    "title": "Efficient Fine-tuning of Atmospheric Foundation Models for Wildfire Modeling",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:HIFyuExEbWQC",
+    "authors": "AA Rahman, L Mackey, SK Mukkavilli, S Kahou",
+    "venue": "AGU24",
+    "year": "2024",
+    "id": "efficient-fine-tuning-of-atmospheric-foundation-models-for-wildfire-modeling",
+    "kind": "Conference abstract / presentation"
+  },
+  {
+    "title": "Enhancing Wind Downscaling with Foundation Models",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:OR75R8vi5nAC",
+    "authors": "D Salles Civitarese, JLLG Guevara Diaz, SK Mukkavilli, J Schmude, et al.",
+    "venue": "AGU Fall Meeting Abstracts 2024, IN51B-03",
+    "year": "2024",
+    "id": "enhancing-wind-downscaling-with-foundation-models",
+    "kind": "Conference abstract / presentation"
+  },
+  {
+    "title": "Indus: Effective and efficient language models for scientific applications",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:umqufdRvDiIC",
+    "authors": "B Bhattacharjee, A Trivedi, M Muraoka, M Ramasubramanian, et al.",
+    "venue": "Conference on Empirical Methods in Natural Language Processing (EMNLP), 98–112",
+    "year": "2024",
+    "image": "indus.png",
+    "caption": "INDUS scientific language models, retrievers, distilled models and evaluation benchmarks.",
+    "source": "https://aclanthology.org/2024.emnlp-industry.9/",
+    "figure": 1,
+    "pdf_page": 2,
+    "id": "indus-effective-and-efficient-language-models-for-scientific-applications",
+    "kind": "Publication"
+  },
+  {
+    "title": "On the development of artificial intelligence downscaling applications for medium-range forecasts of weather elements at CCMEP",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:OTTXONDVkokC",
+    "authors": "C Saad, D Brunet, M Surcel, J Schmude, DS Civitarese, K Mukkavilli, et al.",
+    "venue": "The Canadian Meteorological and Oceanographic Society (CMOS) Congress",
+    "year": "2024",
+    "id": "on-the-development-of-artificial-intelligence-downscaling-applications-for-medium-range-forecasts-of-weather-elements-at-ccmep",
+    "kind": "Publication"
+  },
+  {
+    "title": "Site-scale methane plume simulation and validation from oil and gas facilities through advanced dispersion, atmospheric modeling, and scientific machine learning",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:4vMrXwiscB8C",
+    "authors": "A Fathi, JL Sousa Almeida, E Bentivegna, F Cardoso, B Elmegreen, et al.",
+    "venue": "AGU Fall Meeting Abstracts 2024 (1662), A41G-1662",
+    "year": "2024",
+    "id": "site-scale-methane-plume-simulation-and-validation-from-oil-and-gas-facilities-through-advanced-dispersion-atmospheric-modeling-and-scientific-machine-learning",
+    "kind": "Conference abstract / presentation"
+  },
+  {
+    "title": "Towards state-of-the-art nowcasting with a foundational AI model: an ECCC-IBM collaboration",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:mlAyqtXpCwEC",
+    "authors": "D Brunet, D Davignon, A Mahidjiba, K Mukkavilli, DS Civitarese, et al.",
+    "venue": "The Canadian Meteorological and Oceanographic Society (CMOS) Congress",
+    "year": "2024",
+    "id": "towards-state-of-the-art-nowcasting-with-a-foundational-ai-model-an-eccc-ibm-collaboration",
+    "kind": "Publication"
+  },
+  {
+    "title": "Wealth over Woe: Global biases in hydro‐hazard research",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:HtEfBTGE9r8C",
+    "authors": "L Stein, SK Mukkavilli, BM Pfitzmann, PWJ Staar, U Ozturk, C Berrospi, et al.",
+    "venue": "Earth's Future 12 (10), e2024EF004590",
+    "year": "2024",
+    "image": "hydro-hazards.png",
+    "caption": "Literature search, filtering and geolocation used to map hydro-hazard research.",
+    "source": "https://doi.org/10.1029/2024EF004590",
+    "figure": 1,
+    "pdf_page": 3,
+    "id": "wealth-over-woe-global-biases-in-hydro-hazard-research",
+    "kind": "Publication"
+  },
+  {
+    "title": "A 3D spatial self-attention module on a non-uniform vertical coordinate for super-resolution wind fields",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:4fGpz3EwCPoC",
+    "authors": "T Kurihana, K Yeo, D Szwarcman, B Elmegreen, SK Mukkavilli",
+    "venue": "AGU Fall Meeting Abstracts 2023 (6), A12H-06",
+    "year": "2023",
+    "id": "a-3d-spatial-self-attention-module-on-a-non-uniform-vertical-coordinate-for-super-resolution-wind-fields",
+    "kind": "Conference abstract / presentation"
+  },
+  {
+    "title": "A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:9pM33mqn1YgC",
+    "authors": "T Kurihana, K Yeo, D Szwarcman, B Elmegreen, K Mukkavilli, J Schmude, et al.",
+    "venue": "arXiv preprint arXiv:2312.13212",
+    "year": "2023",
+    "id": "a-3d-super-resolution-of-wind-fields-via-physics-informed-pixel-wise-self-attention-generative-adversarial-network",
+    "kind": "Preprint"
+  },
+  {
+    "title": "AB2CD: AI for building climate damage classification and detection",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:Ri6SYOTghG4C",
+    "authors": "M Nitsche, SK Mukkavilli, N Kühl, T Brunschwiler",
+    "venue": "Proceedings of the AAAI Symposium Series 2 (1), 115-123",
+    "year": "2023",
+    "image": "ab2cd.png",
+    "caption": "Pre- and post-disaster imagery, damage labels and model predictions from xBD.",
+    "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:Ri6SYOTghG4C",
+    "figure": 1,
+    "pdf_page": 5,
+    "id": "ab2cd-ai-for-building-climate-damage-classification-and-detection",
+    "kind": "Publication"
+  },
+  {
+    "title": "AI Foundation Models for Weather and Climate: Applications, Design, and Implementation",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:GtLg2Ama23sC",
+    "authors": "S Karthik Mukkavilli, D Salles Civitarese, J Schmude, J Jakubik, A Jones, et al.",
+    "venue": "arXiv preprint arXiv: 2309.10808",
+    "year": "2023",
+    "image": "weather-climate.png",
+    "caption": "Spatiotemporal scales of weather and climate foundation-model applications.",
+    "source": "https://arxiv.org/abs/2309.10808",
+    "figure": 1,
+    "pdf_page": 14,
+    "id": "ai-foundation-models-for-weather-and-climate-applications-design-and-implementation",
+    "kind": "Preprint"
+  },
+  {
+    "title": "ClimateHub: Deep Search for Climate, Earth and Environmental Sciences",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:4hFrxpcac9AC",
+    "authors": "SK Mukkavilli, T Brunschwiler, B Pfitzmann, CB Ramis, A Jones, et al.",
+    "venue": "AGU Fall Meeting Abstracts 2023 (2), IN14B-02",
+    "year": "2023",
+    "id": "climatehub-deep-search-for-climate-earth-and-environmental-sciences",
+    "kind": "Conference abstract / presentation"
+  },
+  {
+    "title": "Foundation models for generalist geospatial artificial intelligence",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:mNrWkgRL2YcC",
+    "authors": "J Jakubik, S Roy, CE Phillips, P Fraccaro, D Godwin, B Zadrozny, et al.",
+    "venue": "arXiv preprint arXiv:2310.18660",
+    "year": "2023",
+    "image": "prithvi.png",
+    "caption": "Pre-training, fine-tuning and inference for geospatial foundation models.",
+    "source": "https://arxiv.org/abs/2310.18660",
+    "figure": 1,
+    "pdf_page": 3,
+    "id": "foundation-models-for-generalist-geospatial-artificial-intelligence",
+    "kind": "Preprint"
+  },
+  {
+    "title": "High-Resolution WRF Wind Field Dataset for GHG Applications: Navigating Computational Challenges in Energy Research",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:NXb4pA-qfm4C",
+    "authors": "SK Mukkavilli, W Trojak, JL Sousa Almeida, B Elmegreen, C Watson, et al.",
+    "venue": "AGU Fall Meeting Abstracts 2023 (8), A12H-08",
+    "year": "2023",
+    "id": "high-resolution-wrf-wind-field-dataset-for-ghg-applications-navigating-computational-challenges-in-energy-research",
+    "kind": "Conference abstract / presentation"
+  },
+  {
+    "title": "Tensorbank: Tensor lakehouse for foundation model training",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:YohjEiUPhakC",
+    "authors": "R Kienzler, J Schmude, N Simumba, B Blumenstiel, M Freitag, D Kimura, et al.",
+    "venue": "2023 IEEE International Conference on Big Data (BigData), 3350-3354",
+    "year": "2023",
+    "id": "tensorbank-tensor-lakehouse-for-foundation-model-training",
+    "kind": "Publication"
+  },
+  {
+    "title": "Towards operational methane emission detection from oil and gas facilities through multi-modal sensing and advanced dispersion and atmospheric modeling",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:a9-T7VOCCH8C",
+    "authors": "A Fathi, JL Sousa Almeida, E Bentivegna, F Cardoso, B Elmegreen, et al.",
+    "venue": "AGU Fall Meeting Abstracts 2023 (3), A12H-03",
+    "year": "2023",
+    "id": "towards-operational-methane-emission-detection-from-oil-and-gas-facilities-through-multi-modal-sensing-and-advanced-dispersion-and-atmospheric-modeling",
+    "kind": "Conference abstract / presentation"
+  },
+  {
+    "title": "Knowledge Graphs in Deep Search Climate-Hub",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:rmuvC79q63oC",
+    "authors": "SK Mukkavilli, B Pfitzmann, A Jones, T Brunschwiler, P Fraccaro, et al.",
+    "venue": "Fall Meeting 2022",
+    "year": "2022",
+    "id": "knowledge-graphs-in-deep-search-climate-hub",
+    "kind": "Conference abstract / presentation"
+  },
+  {
+    "title": "Lifelines for a Drowning Science‐Improving Findability and Synthesis of Hydrologic Publications",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:86PQX7AUzd4C",
+    "authors": "L Stein, SK Mukkavilli, T Wagener",
+    "venue": "Hydrological Processes, e14742",
+    "year": "2022",
+    "id": "lifelines-for-a-drowning-science-improving-findability-and-synthesis-of-hydrologic-publications",
+    "kind": "Publication"
+  },
+  {
+    "title": "Tackling climate change with machine learning",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:ye4kPcJQO24C",
+    "authors": "D Rolnick, PL Donti, LH Kaack, K Kochanski, A Lacoste, K Sankaran, et al.",
+    "venue": "ACM computing surveys (CSUR) 55 (2), 1-96",
+    "year": "2022",
+    "image": "climate-ml.png",
+    "caption": "Machine-learning opportunities across electricity generation, networks and demand.",
+    "source": "https://doi.org/10.1145/3485128",
+    "figure": 1,
+    "pdf_page": 7,
+    "id": "tackling-climate-change-with-machine-learning",
+    "kind": "Publication"
+  },
+  {
+    "title": "Reliable modeling and prediction of precipitation & radiation for mountainous hydrology",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:WqliGbK-hY8C",
+    "authors": "D Feldman, V Chandrasekar, P Dennedy-Frank, D Dwivedi, M Mudigonda, et al.",
+    "venue": "Lawrence Berkeley National Laboratory (LBNL), Berkeley, CA (United States …",
+    "year": "2021",
+    "id": "reliable-modeling-and-prediction-of-precipitation-radiation-for-mountainous-hydrology",
+    "kind": "Publication"
+  },
+  {
+    "title": "Toward Generative Superparameterized Updrafts with Variational Autoencoder Interpretability",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:_axFR9aDTf0C",
+    "authors": "G Mooers, S Mandt, M Pritchard, T Beucler, J Tuyls, K Mukkavilli",
+    "venue": "American Meteorological Society Meeting Abstracts 101, 14.8",
+    "year": "2021",
+    "id": "toward-generative-superparameterized-updrafts-with-variational-autoencoder-interpretability",
+    "kind": "Conference abstract / presentation"
+  },
+  {
+    "title": "AI Applications for Air Quality",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:J-pR_7NvFogC",
+    "authors": "SK Mukkavilli",
+    "venue": "100th American Meteorological Society Annual Meeting",
+    "year": "2020",
+    "id": "ai-applications-for-air-quality",
+    "kind": "Conference abstract / presentation"
+  },
+  {
+    "title": "Generative large eddy simulations with conditional variational autoencoders",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:9vf0nzSNQJEC",
+    "authors": "SK Mukkavilli, MS Pritchard, KG Pressel, G Mooers, PL Ma, S Mandt",
+    "venue": "AGU Fall Meeting Abstracts 2020, A043-0009",
+    "year": "2020",
+    "id": "generative-large-eddy-simulations-with-conditional-variational-autoencoders",
+    "kind": "Conference abstract / presentation"
+  },
+  {
+    "title": "Integrated Climate Extremes: Modeling Future Impacts for Visualizing Climate Change",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:HE397vMXCloC",
+    "authors": "SK Mukkavilli, Y Min, A Madanchi, VB Pacela, S Patel, Y Bengio",
+    "venue": "American Meteorological Society Meeting Abstracts 100, J61. 4",
+    "year": "2020",
+    "id": "integrated-climate-extremes-modeling-future-impacts-for-visualizing-climate-change",
+    "kind": "Conference abstract / presentation"
+  },
+  {
+    "title": "PMNet: Improving Aerosol Predictions Using Deep Neural Nets for Limited Ground Stations",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:Mojj43d5GZwC",
+    "authors": "C Hoyne, SK Mukkavilli, D Meger",
+    "venue": "American Meteorological Society Meeting Abstracts 100, 9A. 1",
+    "year": "2020",
+    "id": "pmnet-improving-aerosol-predictions-using-deep-neural-nets-for-limited-ground-stations",
+    "kind": "Conference abstract / presentation"
+  },
+  {
+    "title": "Parameterization of Autoconversion Rates in a Climate Model Using Machine Learning with Training from Large Eddy Simulations",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:eq2jaN3J8jMC",
+    "authors": "KG Pressel, PL Ma, J Fan, JD Fast, WI Gustafson Jr, JC Hardin, C Kaul, et al.",
+    "venue": "AGU Fall Meeting Abstracts 2020, A071-04",
+    "year": "2020",
+    "id": "parameterization-of-autoconversion-rates-in-a-climate-model-using-machine-learning-with-training-from-large-eddy-simulations",
+    "kind": "Conference abstract / presentation"
+  },
+  {
+    "title": "Strategic foresight to applications of artificial intelligence to achieve water-related sustainable development goals",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:PELIpwtuRlgC",
+    "authors": "H Mehmood, SK Mukkavilli, I Weber, A Koshio, C Meechaiya, T Piman, et al.",
+    "venue": "UNU INWEH Report Series, INWEH Report Series, INWEH Report Series 9",
+    "year": "2020",
+    "id": "strategic-foresight-to-applications-of-artificial-intelligence-to-achieve-water-related-sustainable-development-goals",
+    "kind": "Publication"
+  },
+  {
+    "title": "Towards robust operational neural network parameterizations of convection in climate models—advances in stability, credibility and software",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:SdhP9T11ey4C",
+    "authors": "MS Pritchard, T Beucler, G Mooers, J Ott, P Gentine, L Peng, P Baldi, et al.",
+    "venue": "AGU Fall Meeting Abstracts 2020, A071-02",
+    "year": "2020",
+    "id": "towards-robust-operational-neural-network-parameterizations-of-convection-in-climate-models-advances-in-stability-credibility-and-software",
+    "kind": "Conference abstract / presentation"
+  },
+  {
+    "title": "Assessment of atmospheric aerosols from two reanalysis products over Australia",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:p2g8aNsByqUC",
+    "authors": "SK Mukkavilli, AA Prasad, RA Taylor, J Huang, RM Mitchell, A Troccoli, et al.",
+    "venue": "Atmospheric research 215, 149-164",
+    "year": "2019",
+    "id": "assessment-of-atmospheric-aerosols-from-two-reanalysis-products-over-australia",
+    "kind": "Publication"
+  },
+  {
+    "title": "Big Data, Big Computing, Bigger Science: Earth Data for AI",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:eMMeJKvmdy0C",
+    "authors": "TS Sliwinski, SK Mukkavilli, A Ganguly, S Collis, GJ Creager, P Tissot",
+    "venue": "99th American Meteorological Society Annual Meeting",
+    "year": "2019",
+    "id": "big-data-big-computing-bigger-science-earth-data-for-ai",
+    "kind": "Conference abstract / presentation"
+  },
+  {
+    "title": "Climate Change & AI: Present and potential role of AI in assessment and response",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:KbBQZpvPDL4C",
+    "authors": "L Joppa, V Lakshmanan, V Kumar, G Dudek, SK Mukkavilli, P Tissot",
+    "venue": "American Meteorological Society Meeting Abstracts 99, 56419",
+    "year": "2019",
+    "id": "climate-change-ai-present-and-potential-role-of-ai-in-assessment-and-response",
+    "kind": "Conference abstract / presentation"
+  },
+  {
+    "title": "Deep learning for Aerosol Forecasting",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:q3oQSFYPqjQC",
+    "authors": "C Hoyne, SK Mukkavilli, D Meger",
+    "venue": "Neural Information Processing Systems (NeurIPS), Machine Learning and the …",
+    "year": "2019",
+    "id": "deep-learning-for-aerosol-forecasting",
+    "kind": "Publication"
+  },
+  {
+    "title": "EnviroNet: ImageNet for Environment",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:WbkHhVStYXYC",
+    "authors": "SK Mukkavilli, P Tissot, A Ganguly, L Joppa, D Meger, G Dudek",
+    "venue": "18th Conference on Artificial and Computational Intelligence and its …",
+    "year": "2019",
+    "id": "environet-imagenet-for-environment",
+    "kind": "Conference abstract / presentation"
+  },
+  {
+    "title": "Environet: The ImageNet for Environmental Sciences",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:5qfkUJPXOUwC",
+    "authors": "SK Mukkavilli, L Joppa, V Lakshmanan, G Dudek, M Prabhat",
+    "venue": "99th American Meteorological Society Annual Meeting",
+    "year": "2019",
+    "id": "environet-the-imagenet-for-environmental-sciences",
+    "kind": "Conference abstract / presentation"
+  },
+  {
+    "title": "Physics guided ML: Emerging AI opportunities for weather and climate",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:olpn-zPbct0C",
+    "authors": "V Kumar, V Lakshmanan, L Joppa, G Dudek, SK Mukkavilli, A McGovern",
+    "venue": "American Meteorological Society Meeting Abstracts 99, 56420",
+    "year": "2019",
+    "id": "physics-guided-ml-emerging-ai-opportunities-for-weather-and-climate",
+    "kind": "Conference abstract / presentation"
+  },
+  {
+    "title": "Predicting ice flow using machine learning",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:kRWSkSYxWN8C",
+    "authors": "Y Min, SK Mukkavilli, Y Bengio",
+    "venue": "Neural Information Processing Systems (NeurIPS), Tackling Climate Change …",
+    "year": "2019",
+    "id": "predicting-ice-flow-using-machine-learning",
+    "kind": "Publication"
+  },
+  {
+    "title": "Towards Planetary Intelligence: On the Synergistic Future of AI, Weather and Climate",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:1qzjygNMrQYC",
+    "authors": "SK Mukkavilli",
+    "venue": "American Meteorological Society Meeting Abstracts 99, 57677",
+    "year": "2019",
+    "id": "towards-planetary-intelligence-on-the-synergistic-future-of-ai-weather-and-climate",
+    "kind": "Conference abstract / presentation"
+  },
+  {
+    "title": "Visualizing the consequences of climate change using cycle-consistent adversarial networks",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:8AbLer7MMksC",
+    "authors": "V Schmidt, A Luccioni, SK Mukkavilli, N Balasooriya, K Sankaran, et al.",
+    "venue": "International Conference on Learning Representations (ICLR), AI for Social …",
+    "year": "2019",
+    "image": "climate-visualisation.png",
+    "caption": "Illustrative flood transformations generated by a CycleGAN; these are not site-specific flood predictions.",
+    "source": "https://arxiv.org/abs/1905.03709",
+    "figure": 1,
+    "pdf_page": 4,
+    "id": "visualizing-the-consequences-of-climate-change-using-cycle-consistent-adversarial-networks",
+    "kind": "Publication"
+  },
+  {
+    "title": "AI Techniques for Numerical Weather Predictions",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:Y5dfb0dijaUC",
+    "authors": "SK Mukkavilli",
+    "venue": "98th American Meteorological Society Annual Meeting",
+    "year": "2018",
+    "id": "ai-techniques-for-numerical-weather-predictions",
+    "kind": "Conference abstract / presentation"
+  },
+  {
+    "title": "Investigating Australian dust aerosol spatiotemporal effects on direct normal irradiance forecasts",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:LPZeul_q3PIC",
+    "authors": "SK Mukkavilli",
+    "venue": "https://www.unsworks.unsw.edu.au/primo-explore/fulldisplay/unsworks_58614 …",
+    "year": "2018",
+    "id": "investigating-australian-dust-aerosol-spatiotemporal-effects-on-direct-normal-irradiance-forecasts",
+    "kind": "Publication"
+  },
+  {
+    "title": "Mesoscale simulations of Australian direct normal irradiance, featuring an extreme dust event",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:uWQEDVKXjbEC",
+    "authors": "SK Mukkavilli, AA Prasad, RA Taylor, A Troccoli, MJ Kay",
+    "venue": "Journal of Applied Meteorology and Climatology 57 (3), 493-515",
+    "year": "2018",
+    "id": "mesoscale-simulations-of-australian-direct-normal-irradiance-featuring-an-extreme-dust-event",
+    "kind": "Publication"
+  },
+  {
+    "title": "Drawdown: The most comprehensive plan ever proposed to reverse global warming",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:dshw04ExmUIC",
+    "authors": "Research contribution by S. Karthik Mukkavilli",
+    "venue": "Penguin; edited by Paul Hawken",
+    "year": "2017",
+    "source": "https://books.google.ch/books?id=uvtlDgAAQBAJ",
+    "id": "drawdown-the-most-comprehensive-plan-ever-proposed-to-reverse-global-warming",
+    "kind": "Publication"
+  },
+  {
+    "title": "Towards a More Accurate Machine Learning Multi-Model Ensemble Method for Direct Solar Irradiance Forecasts",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:ODE9OILHJdcC",
+    "authors": "SK Mukkavilli, MJ Kay, AA Prasad, R Taylor, A Troccoli",
+    "venue": "American Meteorological Society Meeting Abstracts 95, J6. 3",
+    "year": "2015",
+    "id": "towards-a-more-accurate-machine-learning-multi-model-ensemble-method-for-direct-solar-irradiance-forecasts",
+    "kind": "Conference abstract / presentation"
+  },
+  {
+    "title": "Sensitivity analysis of numerical weather prediction radiative schemes to forecast direct solar radiation over Australia",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DKFiD7cAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DKFiD7cAAAAJ:PVjk1bu6vJQC",
+    "authors": "SK Mukkavilli, MJ Kay, R Taylor, AA Prasad, A Troccoli",
+    "venue": "AGU Fall Meeting Abstracts 2014, GC43A-0697",
+    "year": "2014",
+    "id": "sensitivity-analysis-of-numerical-weather-prediction-radiative-schemes-to-forecast-direct-solar-radiation-over-australia",
+    "kind": "Conference abstract / presentation"
+  }
+]
